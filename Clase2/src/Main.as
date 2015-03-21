@@ -5,7 +5,7 @@ package
 	
 	/**
 	 * ...
-	 * @author Alfredo Panitz
+	 * @author Yorsh
 	 */
 	public class Main extends Sprite 
 	{
@@ -20,6 +20,9 @@ package
 		{
 			removeEventListener(Event.ADDED_TO_STAGE, init);
 			// entry point
+			
+			
+			
 		}
 		
 	}
